@@ -1,0 +1,58 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+VENV/
+.env/
+.venv/
+
+# VSCode, PyCharm, altri editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# File temporanei / backup
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Configurazioni locali / ambienti
+.env
+.env.local
+*.env.*
+
+# Distribuzione / build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.spec
+
+# mypy / pytest / coverage / pyright
+.mypy_cache/
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+.cache/
+.pyright/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS/Linux system
+ehthumbs.db
+Icon?
