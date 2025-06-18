@@ -1,1 +1,1 @@
-Semplice convertitore di immagin de heic a jpeg.
+Semplice convertitore di immagini da heic a jpeg.
